@@ -1,0 +1,6 @@
+dependencies {
+	api 'jakarta.validation:jakarta.validation-api'
+	api 'org.hibernate.validator:hibernate-validator'
+
+	implementation 'org.jooq:jool:0.9.14'
+}
