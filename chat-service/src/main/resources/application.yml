@@ -1,7 +1,10 @@
 spring:
   data:
     mongodb:
-      database: chat_service
+      username: root
+      password: root
       port: 27017
-      password: bdung
-      username: mongoadmin
+      database: chat_service
+      authentication-database: admin
+server:
+  port: 8080
