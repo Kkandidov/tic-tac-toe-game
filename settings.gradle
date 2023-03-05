@@ -1,3 +1,4 @@
 rootProject.name = 'tic-tac-toe-game'
 include 'battle-service'
+include 'chat-service'
 
