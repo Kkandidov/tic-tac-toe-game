@@ -10,7 +10,7 @@ const MenuItems = () => {
 						<Nav.Link><Link to='/game'>Game</Link></Nav.Link>
 					</ListGroup.Item>
 					<ListGroup.Item>
-						<Nav.Link href='/menu2'>Menu 2</Nav.Link>
+						<Nav.Link><Link to='/chat'>Chat</Link></Nav.Link>
 					</ListGroup.Item>
 					<ListGroup.Item>
 						<Nav.Link href='/menu3'>Menu 3</Nav.Link>
